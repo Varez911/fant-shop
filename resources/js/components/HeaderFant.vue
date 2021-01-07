@@ -20,7 +20,7 @@
                 </i>
                   <div class="cart-hover">
                     <div class="select-button">                      
-                      <a href="/" class="primary-btn proceed-btn">
+                      <a href="/" class="primary-btn view-card">
                         Sign In
                         <i class="fas fa-sign-out-alt"></i>
                       </a>                      

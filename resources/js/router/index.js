@@ -22,6 +22,8 @@ import EditBarang from '../pages/EditBarang.vue'
 import EditTransaksi from '../pages/EditTransaksi.vue'
 import InsertUser from '../pages/InsertUser.vue'
 import InsertBarang from '../pages/InsertBarang.vue'
+import LoginPage from '../pages/LoginPage.vue'
+import RegistrasionPage from '../pages/RegisterPage.vue'
 // import SplashScreen from '../components/SplashScreen.vue'
 // import Login from '../components/LoginScreen.vue'
 
@@ -97,6 +99,14 @@ const routes = [
     {
         path: '/dashboard-insertProducts',
         component: InsertBarang
+    },
+    {
+        path: '/login',
+        component: LoginPage
+    },
+    {
+        path: '/registrasi',
+        component: RegistrasionPage
     }
 ]
 

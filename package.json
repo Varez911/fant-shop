@@ -34,6 +34,7 @@
         "vue-awesome": "^4.1.0",
         "vue-events": "^3.1.0",
         "vue-owl-carousel": "^2.0.3",
-        "vue-router": "^3.4.9"
+        "vue-router": "^3.4.9",
+        "vuex": "^3.6.0"
     }
 }
