@@ -60,7 +60,8 @@ export default {
     return {
       user: ''
     }
-  }
+  },
+  props: ['username'],
 };
 </script>
 
