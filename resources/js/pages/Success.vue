@@ -6,7 +6,7 @@
       <div class="col col-lg-4 text-center">
         <img src="img/success-buy.png" alt="" width="294" />
         <h3 class="mt-4">
-          Sukses Terbayar!
+          Sukses Dipesan!
         </h3>
         <p class="mt-2">
           Silakan tunggu update terbaru dari kami via email yang sudah Anda
